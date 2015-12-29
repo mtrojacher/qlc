@@ -4,265 +4,265 @@
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.10.1</Version>
-  <Author>Michael</Author>
+  <Author>Michael Trojacher (xarumanx@gmail.com)</Author>
  </Creator>
  <Manufacturer>Behringer</Manufacturer>
  <Model>BCR2000</Model>
  <Type>MIDI</Type>
  <Channel Number="1">
-  <Name>EG1 - Knob 1</Name>
+  <Name>Top Group 1 - Knob 1</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="2">
-  <Name>EG1 - Knob 2</Name>
+  <Name>Top Group 1 - Knob 2</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="3">
-  <Name>EG1 - Knob 3</Name>
+  <Name>Top Group 1 - Knob 3</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="4">
-  <Name>EG1 - Knob 4</Name>
+  <Name>Top Group 1 - Knob 4</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="5">
-  <Name>EG1 - Knob 5</Name>
+  <Name>Top Group 1 - Knob 5</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="6">
-  <Name>EG1 - Knob 6</Name>
+  <Name>Top Group 1 - Knob 6</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="7">
-  <Name>EG1 - Knob 7</Name>
+  <Name>Top Group 1 - Knob 7</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="8">
-  <Name>EG1 - Knob 8</Name>
+  <Name>Top Group 1 - Knob 8</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="9">
-  <Name>EG2 - Knob 1</Name>
+  <Name>Top Group 2 - Knob 1</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="10">
-  <Name>EG2 - Knob 2</Name>
+  <Name>Top Group 2 - Knob 2</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="11">
-  <Name>EG2 - Knob 3</Name>
+  <Name>Top Group 2 - Knob 3</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="12">
-  <Name>EG2 - Knob 4</Name>
+  <Name>Top Group 2 - Knob 4</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="13">
-  <Name>EG2 - Knob 5</Name>
+  <Name>Top Group 2 - Knob 5</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="14">
-  <Name>EG2 - Knob 6</Name>
+  <Name>Top Group 2 - Knob 6</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="15">
-  <Name>EG2 - Knob 7</Name>
+  <Name>Top Group 2 - Knob 7</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="16">
-  <Name>EG2 - Knob 8</Name>
+  <Name>Top Group 2 - Knob 8</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="17">
-  <Name>EG3 - Knob 1</Name>
+  <Name>Top Group 3 - Knob 1</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="18">
-  <Name>EG3 - Knob 2</Name>
+  <Name>Top Group 3 - Knob 2</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="19">
-  <Name>EG3 - Knob 3</Name>
+  <Name>Top Group 3 - Knob 3</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="20">
-  <Name>EG3 - Knob 4</Name>
+  <Name>Top Group 3 - Knob 4</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="21">
-  <Name>EG3 - Knob 5</Name>
+  <Name>Top Group 3 - Knob 5</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="22">
-  <Name>EG3 - Knob 6</Name>
+  <Name>Top Group 3 - Knob 6</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="23">
-  <Name>EG3 - Knob 7</Name>
+  <Name>Top Group 3 - Knob 7</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="24">
-  <Name>EG3 - Knob 8</Name>
+  <Name>Top Group 3 - Knob 8</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="25">
-  <Name>EG4 - Knob 1</Name>
+  <Name>Top Group 4 - Knob 1</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="26">
-  <Name>EG4 - Knob 2</Name>
+  <Name>Top Group 4 - Knob 2</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="27">
-  <Name>EG4 - Knob 3</Name>
+  <Name>Top Group 4 - Knob 3</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="28">
-  <Name>EG4 - Knob 4</Name>
+  <Name>Top Group 4 - Knob 4</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="29">
-  <Name>EG4 - Knob 5</Name>
+  <Name>Top Group 4 - Knob 5</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="30">
-  <Name>EG4 - Knob 6</Name>
+  <Name>Top Group 4 - Knob 6</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="31">
-  <Name>EG4 - Knob 7</Name>
+  <Name>Top Group 4 - Knob 7</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="32">
-  <Name>EG4 - Knob 8</Name>
+  <Name>Top Group 4 - Knob 8</Name>
   <Type>Knob</Type>
  </Channel>
  <Channel Number="33">
-  <Name>EG1 - Knob 1 Push</Name>
+  <Name>Top Group 1 - Knob 1 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="34">
-  <Name>EG1 - Knob 2 Push</Name>
+  <Name>Top Group 1 - Knob 2 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="35">
-  <Name>EG1 - Knob 3 Push</Name>
+  <Name>Top Group 1 - Knob 3 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="36">
-  <Name>EG1 - Knob 4 Push</Name>
+  <Name>Top Group 1 - Knob 4 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="37">
-  <Name>EG1 - Knob 5 Push</Name>
+  <Name>Top Group 1 - Knob 5 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="38">
-  <Name>EG1 - Knob 6 Push</Name>
+  <Name>Top Group 1 - Knob 6 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="39">
-  <Name>EG1 - Knob 7 Push</Name>
+  <Name>Top Group 1 - Knob 7 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="40">
-  <Name>EG1 - Knob 8 Push</Name>
+  <Name>Top Group 1 - Knob 8 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="41">
-  <Name>EG2 - Knob 1 Push</Name>
+  <Name>Top Group 2 - Knob 1 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="42">
-  <Name>EG2 - Knob 2 Push</Name>
+  <Name>Top Group 2 - Knob 2 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="43">
-  <Name>EG2 - Knob 3 Push</Name>
+  <Name>Top Group 2 - Knob 3 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="44">
-  <Name>EG2 - Knob 4 Push</Name>
+  <Name>Top Group 2 - Knob 4 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="45">
-  <Name>EG2 - Knob 5 Push</Name>
+  <Name>Top Group 2 - Knob 5 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="46">
-  <Name>EG2 - Knob 6 Push</Name>
+  <Name>Top Group 2 - Knob 6 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="47">
-  <Name>EG2 - Knob 7 Push</Name>
+  <Name>Top Group 2 - Knob 7 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="48">
-  <Name>EG2 - Knob 8 Push</Name>
+  <Name>Top Group 2 - Knob 8 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="49">
-  <Name>EG3 - Knob 1 Push</Name>
+  <Name>Top Group 3 - Knob 1 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="50">
-  <Name>EG3 - Knob 2 Push</Name>
+  <Name>Top Group 3 - Knob 2 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="51">
-  <Name>EG3 - Knob 3 Push</Name>
+  <Name>Top Group 3 - Knob 3 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="52">
-  <Name>EG3 - Knob 4 Push</Name>
+  <Name>Top Group 3 - Knob 4 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="53">
-  <Name>EG3 - Knob 5 Push</Name>
+  <Name>Top Group 3 - Knob 5 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="54">
-  <Name>EG3 - Knob 6 Push</Name>
+  <Name>Top Group 3 - Knob 6 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="55">
-  <Name>EG3 - Knob 7 Push</Name>
+  <Name>Top Group 3 - Knob 7 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="56">
-  <Name>EG3 - Knob 8 Push</Name>
+  <Name>Top Group 3 - Knob 8 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="57">
-  <Name>EG4 - Knob 1 Push</Name>
+  <Name>Top Group 4 - Knob 1 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="58">
-  <Name>EG4 - Knob 2 Push</Name>
+  <Name>Top Group 4 - Knob 2 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="59">
-  <Name>EG4 - Knob 3 Push</Name>
+  <Name>Top Group 4 - Knob 3 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="60">
-  <Name>EG4 - Knob 4 Push</Name>
+  <Name>Top Group 4 - Knob 4 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="61">
-  <Name>EG4 - Knob 5 Push</Name>
+  <Name>Top Group 4 - Knob 5 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="62">
-  <Name>EG4 - Knob 6 Push</Name>
+  <Name>Top Group 4 - Knob 6 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="63">
-  <Name>EG4 - Knob 7 Push</Name>
+  <Name>Top Group 4 - Knob 7 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="64">
-  <Name>EG4 - Knob 8 Push</Name>
+  <Name>Top Group 4 - Knob 8 Push</Name>
   <Type>Button</Type>
  </Channel>
  <Channel Number="65">
